@@ -25,3 +25,6 @@ Cada una de estas acciones se realizara en un ejercicio.
 
 **BACK END**
 - PHP.
+
+## Licencia
+[MIT](https://choosealicense.com/licenses/mit/)
